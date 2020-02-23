@@ -1,4 +1,4 @@
-# Java Logging API
+# Java Discord API
 A Wrapper API for the Java Discord API to make bot creation easier.
 
 # TODO
